@@ -1,2 +1,2 @@
 # bcc
-https://yrysty97.github.io/bcc/
+https://azamatov2020.github.io/kazetu_2022/
